@@ -1,6 +1,6 @@
 APCA_API_BASE_URL = "https://paper-api.alpaca.markets"
-API_KEY = "PKQ8281KS3HBRNB5GFOI"
-API_SECRET_KEY = "zU6AXeIdRsXS6rinyXuBUgY05czxN4KG5edjS4iN"
+API_KEY = "your-api-key"
+API_SECRET_KEY = "your-secret-key"
 TRADING_PATH = "C:/Users/malic/PythonProjects/trading-app"
 DB_PATH = TRADING_PATH + "/app.db"
 LOGFILE_PATH = TRADING_PATH + "/update_stocks.log"
